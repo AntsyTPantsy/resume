@@ -1,3 +1,3 @@
 Interactive Resume
 
-Resume hosted on github at cherylcourt.github.io/resume
+Resume hosted on github at antsytpantsy.github.io/resume
